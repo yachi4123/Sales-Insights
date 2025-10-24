@@ -1,45 +1,40 @@
-# Sales-Insights
+# **Sales Insights**
 
-Sales Insights
+The objective of this project is to analyze sales data to uncover insights on **customer behavior, product performance, and revenue trends** using **MySQL** and **Jupyter Notebook**.  
 
-Sales Insights is a data analytics project that analyzes sales, customer behavior, and product performance using MySQL and Jupyter Notebook. The project demonstrates how transactional data can be explored, analyzed, and visualized to provide actionable business insights.
+---
 
-Project Overview
+## Key Metrics & Insights
+- **Total Revenue** – Total income from all sales.  
+- **Total Orders** – Number of orders placed.  
+- **Revenue by Product Category** – Contribution of each category to total revenue.  
+- **Top Customers** – Highest spending customers per year.  
+- **Customer Retention Rate** – Percentage of repeat customers within 6 months.  
+- **Monthly & Yearly Growth** – Trends in sales and growth over time.  
 
-The project focuses on analyzing sales data to uncover patterns and insights such as:
+---
 
-Customer distribution across cities and states
+## Analysis Overview
+The project includes analyses and visualizations such as:  
 
-Revenue contributions by products, categories, and sellers
+- **Customer Distribution by City & State** – Shows where customers are located.  
+- **Monthly Orders & Revenue Trends** – Track performance over time.  
+- **Revenue Contribution by Product & Category** – Pie and bar charts highlighting top products.  
+- **Top & Bottom Performing Sellers** – Ranking based on total revenue generated.  
+- **Correlation Analysis** – Relationship between product price and purchase frequency.  
+- **Cumulative Sales & Moving Average** – Identify trends and patterns in sales over time.  
 
-Trends in order volumes and sales over time
+---
 
-Top-performing customers and products
+## Tools & Technologies Used
 
-Customer retention and growth patterns
+| Tool | Purpose |
+|------|---------|
+| MySQL | Store, query, and aggregate sales data |
+| Jupyter Notebook | Run queries, analyze data, and create visualizations |
+| Python (Pandas) | Data analysis and visualization |
+| MS Excel | Data cleaning and preprocessing |
 
-SQL queries are used to perform data analysis in MySQL, and results are further explored and visualized using Jupyter Notebook.
+---
 
-Key Analyses
-
-Analyze customer locations and demographics
-
-Calculate total orders, revenue, and payment patterns
-
-Evaluate product and category sales contributions
-
-Track monthly, cumulative, and year-over-year sales trends
-
-Identify top-performing sellers
-
-Monitor customer purchase history and retention
-
-Highlight top-spending customers and high-demand products
-
-Technologies Used
-
-MySQL – For storing, querying, and aggregating sales data
-
-Jupyter Notebook – For running queries, analyzing data, and creating visualizations
-
-Python Libraries – Optional: Matplotlib, Seaborn, Pandas for data visualization
+## 📂 Project Structure
