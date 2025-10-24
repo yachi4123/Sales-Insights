@@ -37,4 +37,3 @@ The project includes analyses and visualizations such as:
 
 ---
 
-## 📂 Project Structure
